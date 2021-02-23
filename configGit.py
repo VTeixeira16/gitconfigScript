@@ -11,7 +11,7 @@ platGit= ''
 
 def perguntaNome():
 	global nome
-	nome = input ('Qual o seu nome? ')
+	nome = input ('Qual o seu nome (e sobrenome)?')
 
 def perguntaEmail():
 	global email
